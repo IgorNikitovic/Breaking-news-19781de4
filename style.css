@@ -12,7 +12,7 @@ h1 {
 .news { 
 	justify-content: center;
 	align-items: baseline;
-	width:33%;
+	width:50%;
 }
 
 .content {
@@ -22,3 +22,11 @@ h1 {
 }
 
 p{width: 100%}
+
+#breaking {order: -1;
+font-size: x-large;
+width: 100%;
+text-align: center;
+}
+
+
